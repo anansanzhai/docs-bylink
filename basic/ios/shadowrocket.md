@@ -30,9 +30,7 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 
 
 
-![](../../.gitbook/assets/xhjzh1.png)
-
-### 登录我们提供的Appstore账号
+### 登录Appstore账号
 
 {% hint style="danger" %}
 请参照这里的说明进行登录，千万不要登录icloud！否则会有锁机风险！
