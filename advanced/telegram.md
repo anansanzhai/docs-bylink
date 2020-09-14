@@ -81,7 +81,6 @@ Telegram官方网站：[https://telegram.org/](https://telegram.org/)
 
 4.您可以接收到机器人的回复
 
-![](../.gitbook/assets/t-3.jpg)
 
 5.一些特殊的指令（暂未列入列表）：
 
