@@ -194,7 +194,7 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 在一些情况下（如网站节点更新，或您从免费账户升级至VIP后），您需要手动更新订阅，以获取最新节点。
 {% endhint %}
 
-在软件首页，找到我们的订阅（api.ctdy.xyz\)，左滑，然后点击**更新**即可。
+在软件首页，找到我们的订阅（sub.bytelink.pw\)，左滑，然后点击**更新**即可。
 
 ### 手动添加订阅
 
@@ -213,10 +213,8 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 3.在URL栏中输入**订阅地址**，点击完成后，即可自动更新节点。
 
 {% hint style="info" %}
-订阅地址可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
+订阅地址可以在阁下之 [订阅中心中心](https://www.tzct.xyz/user) 下方找到。
 {% endhint %}
-
-![](../../.gitbook/assets/dyurl.png)
 
 ![](../../.gitbook/assets/ios3.png)
 

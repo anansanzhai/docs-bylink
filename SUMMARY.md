@@ -10,13 +10,12 @@
 * [Windows](basic/windows/README.md)
   * [SSR](basic/windows/ssr.md)
   * [Clash](basic/windows/clash.md)
-  * [SSD](basic/windows/ssd.md)
   * [SSTAP（游戏）](basic/windows/sstap.md)
   * [Netch（游戏）](basic/windows/netch.md)
 * [Android](basic/android/README.md)
-  * [SSR](basic/android/ssr.md)
-  * [Surfboard](basic/android/surfboard.md)
   * [ClashA](basic/android/clasha.md)
+  * [Surfboard](basic/android/surfboard.md)
+  * [SSR](basic/android/ssr.md)
 * [IOS](basic/ios/README.md)
   * [Shadowrocket](basic/ios/shadowrocket.md)
   * [Potatso Lite](basic/ios/potatso-lite.md)
@@ -37,7 +36,6 @@
 
 * [定制订阅](advanced/edit-subscribe.md)
 * [Telegram教程](advanced/telegram.md)
-* [NF相关问题](advanced/nf.md)
 * [通过Socks5使用SSR](advanced/socks5.md)
 * [策略组](advanced/rules.md)
 
