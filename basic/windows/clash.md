@@ -40,7 +40,7 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 2.打开安装好的Clash，点击侧边的“**Profiles**”面板，然后将地址粘贴进如图所示位置，点“**download**”。
 
-![](../../.gitbook/assets/snipaste_2019-09-17_16-37-14.png)
+![](../../.gitbook/assets/windows-clash-01.png)
 
 3.点击 **Proxies** 面板，并进入。然后看到如下画面：
 

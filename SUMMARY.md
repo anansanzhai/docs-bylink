@@ -8,8 +8,8 @@
 ## 基础 <a id="basic"></a>
 
 * [Windows](basic/windows/README.md)
-  * [SSR](basic/windows/ssr.md)
   * [Clash](basic/windows/clash.md)
+  * [SSR](basic/windows/ssr.md)
   * [SSTAP（游戏）](basic/windows/sstap.md)
   * [Netch（游戏）](basic/windows/netch.md)
 * [Android](basic/android/README.md)
