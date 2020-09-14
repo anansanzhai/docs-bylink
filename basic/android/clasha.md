@@ -42,7 +42,7 @@ description: 新一代代理工具，拥有更加先进的功能，推荐使用
 托管链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
-2.复制好了 Clash 订阅之后打开 Clash for Android 应用程序。请点击 Profiles 。
+2.复制好了 Clash 订阅之后打开 Clash for Android 应用程序。请点击 Profiles
 
 ![](../../.gitbook/assets/clash_android_01.jpg)
 
