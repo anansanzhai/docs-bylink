@@ -36,7 +36,7 @@ description: 我们在这里为您提供了关于用户面板最基本的指南�
 
 ## 邀请好友
 
-您将可以通过我们的 [返利系统](https://bytelink.cloud/user/invite)（Affiliates）邀请好友使用服务并且获得返利。您只需复制您的邀请链接给您的好友进行注册，当您的好友充值时，您都会受到其充值数值的15%返利。
+您将可以通过我们的 [返利系统](https://bytelink.cloud/user/invite)（Affiliates）邀请好友使用服务并且获得返利。您只需复制您的邀请链接给您的好友进行注册，当您的好友充值时，您都会受到其充值数值的10%返利。
 
 ![](.gitbook/assets/snipaste_2019-05-29_17-46-55.png)
 
