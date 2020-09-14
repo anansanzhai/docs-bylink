@@ -48,21 +48,24 @@ Android 10用户请注意：上方地址的版本不支持10系统。官方发�
 托管链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
-2.打开ClashA，再点击**“下载配置”**按钮，将地址粘贴进去，然后确定。
+2.复制好了 Clash 订阅之后打开 Clash for Android 应用程序。请点击 Profiles 。
 
-![](../../.gitbook/assets/screenshot_20190611-141609.jpg)
+![](../../.gitbook/assets/clash_android_01.jpg)
 
-3.点击开始代理按钮，第一次使用会询问权限，允许即可。然后，点击上面的DASHBOARD
+3.请在新弹出的窗口中点击 + New Profile 。
 
-![](../../.gitbook/assets/snipaste_2019-06-11_14-52-21.png)
+![](../../.gitbook/assets/clash_android_02.jpg)
 
-4.然后，会弹出如图所示的界面。
+4.请点击 URL 导入，并粘贴您的 Clash 订阅链接。然后点击选中自己的配置。
 
-![](../../.gitbook/assets/screenshot_20190611-141625.jpg)
 
-请向下拉，找到“Proxy”字段（如下图）。选择“Auto-UrlTest”即代表自动选择最佳节点（具体自动选择的哪个您可以在上面的“Auto-UrlTest”字段看到。）。如您有自己的使用习惯，也可自行选择节点。
+配置文档备注名右侧是刷新按钮。服务器信息可能会不定时更新，若出现大面积节点超时现象，可尝试刷新订阅。
 
-![](../../.gitbook/assets/snipaste_2019-06-11_14-55-31.png)
+返回首页。点击开关，即可进行代理。会提示是否同意创建VPN，请点击允许。
+
+![](../../.gitbook/assets/clash_android_03.jpg)
+
+开启代理后，可以点击 Proxy 选项卡，进入策略组面板，在这里可以切换节点。直接点击你想要的节点即可进行切换。
 
 {% hint style="info" %}
 这里还有很多选项，包括Domestic，Others，Adblock等等。这些属于策略组，如果您感兴趣，可以[点击这里](../../advanced/rules.md)查看相关教程。请勿在看教程之前随意修改，否则可能出现问题！
