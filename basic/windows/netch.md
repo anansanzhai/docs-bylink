@@ -22,7 +22,7 @@ description: 新一代游戏加速器，解决NAT类型问题
 在使用本站服务前，我们建议您保存好本站的联系方式，以防止与我们失联。
 {% endhint %}
 
-1. 地址发布页，建议收藏！地址：[http://bytelink.pro](http://bytelink.pro)
+1. 地址发布页，建议收藏！地址：[http://portal.bytelink.pro](http://portal.bytelink.pro)
 2. TG频道：[点击关注](https://t.me/bytelink) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](../../advanced/telegram.md)！\)
 3. TG群：TG群仅允许VIP会员加入，购买会员后，在用户中心的用户须知可见！
 
