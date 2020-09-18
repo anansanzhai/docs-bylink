@@ -9,7 +9,7 @@ description: 新一代游戏加速器，解决NAT类型问题
 * 软件要求： .NET Framework 4.0以上
 
 {% hint style="info" %}
-本站仅允许付费用户使用游戏节点，如想使用请[点击这里](https://www.tzct.xyz/user)前往商店购买套餐！
+本站仅允许付费用户使用游戏节点，如想使用请[点击这里](https://bytelink.cloud/user)前往商店购买套餐！
 {% endhint %}
 
 {% hint style="danger" %}

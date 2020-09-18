@@ -211,7 +211,7 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 3.在URL栏中输入**订阅地址**，点击完成后，即可自动更新节点。
 
 {% hint style="info" %}
-订阅地址可以在阁下之 [订阅中心中心](https://www.tzct.xyz/user) 下方找到。
+订阅地址可以在阁下之 [订阅管理](https://bytelink.cloud/subscribe) 下方找到。
 {% endhint %}
 
 ![](../../.gitbook/assets/ios3.png)
